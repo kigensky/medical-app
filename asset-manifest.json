@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/midecal-app/static/css/main.1d9e8ed8.css",
+    "main.js": "/midecal-app/static/js/main.9b9522c0.js",
+    "static/js/787.1fd07e85.chunk.js": "/midecal-app/static/js/787.1fd07e85.chunk.js",
+    "index.html": "/midecal-app/index.html",
+    "main.1d9e8ed8.css.map": "/midecal-app/static/css/main.1d9e8ed8.css.map",
+    "main.9b9522c0.js.map": "/midecal-app/static/js/main.9b9522c0.js.map",
+    "787.1fd07e85.chunk.js.map": "/midecal-app/static/js/787.1fd07e85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9e8ed8.css",
+    "static/js/main.9b9522c0.js"
+  ]
+}
